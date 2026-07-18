@@ -64,26 +64,11 @@ A health-focused web application featuring ingredient analysis, barcode scanning
 
 ---
 
-### 🎉 Gatherly
-An event management platform built using the MERN stack.
-
-**Tech Stack:** React, Node.js, Express.js, MongoDB
-
----
-
 ## 🎯 Currently Working On
 
 - 📚 Solving Java DSA problems
 - 🌐 Building Full Stack Web Applications
 - 🤝 Contributing to Open Source
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Data Structures & Algorithms
-- React Ecosystem
-- Backend Development Best Practices
 
 ---
 
